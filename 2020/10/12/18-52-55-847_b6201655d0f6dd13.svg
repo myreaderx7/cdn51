@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="814" height="460" viewBox="0 0 814 460">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#f7f7f7"/>
+    </linearGradient>
+  </defs>
+  <g id="clinical-trial-roadmap-template" transform="translate(4953 -1099)">
+    <rect id="Rectangle_219" data-name="Rectangle 219" width="814" height="460" transform="translate(-4953 1099)" fill="url(#linear-gradient)"/>
+    <g id="Group_81" data-name="Group 81" transform="translate(-896 -625)">
+      <text id="text32" transform="translate(-4015.96 2016.898)" fill="#c0504d" font-size="14" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">2020</tspan></text>
+      <text id="text44" transform="translate(-3311.269 2016.898)" fill="#c0504d" font-size="14" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">2021</tspan></text>
+      <path id="path46" d="M181.44-436.479V-379.1" transform="translate(-4105.047 2311.413)" fill="none" stroke="rgba(79,129,189,0.5)" stroke-miterlimit="10" stroke-width="0.96"/>
+      <path id="path48" d="M572.159-436.479V-379.1" transform="translate(-4262.063 2311.413)" fill="none" stroke="rgba(79,129,189,0.5)" stroke-miterlimit="10" stroke-width="0.96"/>
+      <path id="path50" d="M753.118-387.679v28.168" transform="translate(-4334.784 2291.802)" fill="none" stroke="rgba(79,129,189,0.5)" stroke-miterlimit="10" stroke-width="0.96"/>
+      <path id="path52" d="M112-485.279v86.594" transform="translate(-4077.142 2331.024)" fill="none" stroke="rgba(79,129,189,0.5)" stroke-miterlimit="10" stroke-width="0.96"/>
+      <path id="path54" d="M228.159-387.679v28.168" transform="translate(-4123.822 2291.802)" fill="none" stroke="rgba(79,129,189,0.5)" stroke-miterlimit="10" stroke-width="0.96"/>
+      <path id="path56" d="M617.278-387.679v28.168" transform="translate(-4280.195 2291.802)" fill="none" stroke="rgba(79,129,189,0.5)" stroke-miterlimit="10" stroke-width="0.96"/>
+      <path id="path58" d="M88.64-201.354H748.981v-23.925H88.64Z" transform="translate(-4067.755 2226.54)" fill="#44546a" fill-rule="evenodd"/>
+      <path id="path60" d="M88.64-188.494h93.309v-4.785H88.64Z" transform="translate(-4067.755 2213.68)" fill="rgba(255,0,0,0.75)" fill-rule="evenodd"/>
+      <path id="path62" d="M238.879-177.336l3.589-7.943,3.589,7.943Z" transform="translate(-4128.13 2210.465)" fill="red" fill-rule="evenodd"/>
+      <text id="text74" transform="translate(-3892.023 2038.02)" font-size="5" font-family="Calibri"><tspan x="0" y="0">Today</tspan></text>
+      <text id="text86" transform="translate(-3975.115 2014.926)" fill="#fff" font-size="9" font-family="Calibri"><tspan x="0" y="0">Jan</tspan></text>
+      <text id="text98" transform="translate(-3920.968 2014.926)" fill="#fff" font-size="9" font-family="Calibri"><tspan x="0" y="0">Mar</tspan></text>
+      <text id="text110" transform="translate(-3865.916 2014.926)" fill="#fff" font-size="9" font-family="Calibri"><tspan x="0" y="0">May</tspan></text>
+      <text id="text122" transform="translate(-3810.871 2014.926)" fill="#fff" font-size="9" font-family="Calibri"><tspan x="0" y="0">Jul</tspan></text>
+      <text id="text134" transform="translate(-3754.926 2014.926)" fill="#fff" font-size="9" font-family="Calibri"><tspan x="0" y="0">Sep</tspan></text>
+      <text id="text146" transform="translate(-3699.873 2014.926)" fill="#fff" font-size="9" font-family="Calibri"><tspan x="0" y="0">Nov</tspan></text>
+      <text id="text158" transform="translate(-3644.829 2014.926)" fill="#fff" font-size="9" font-family="Calibri"><tspan x="0" y="0">2021</tspan></text>
+      <text id="text170" transform="translate(-3591.603 2014.926)" fill="#fff" font-size="9" font-family="Calibri"><tspan x="0" y="0">Mar</tspan></text>
+      <text id="text182" transform="translate(-3536.551 2014.926)" fill="#fff" font-size="9" font-family="Calibri"><tspan x="0" y="0">May</tspan></text>
+      <text id="text194" transform="translate(-3481.506 2014.926)" fill="#fff" font-size="9" font-family="Calibri"><tspan x="0" y="0">Jul</tspan></text>
+      <text id="text206" transform="translate(-3425.561 2014.926)" fill="#fff" font-size="9" font-family="Calibri"><tspan x="0" y="0">Sep</tspan></text>
+      <text id="text218" transform="translate(-3370.508 2014.926)" fill="#fff" font-size="9" font-family="Calibri"><tspan x="0" y="0">Nov</tspan></text>
+      <path id="path220" d="M88.64-340.479H355.791l8.757,8.757-8.757,8.757H88.64l8.757-8.757Z" transform="translate(-4067.755 2272.834)" fill="#4472c4" fill-rule="evenodd"/>
+      <path id="path222" d="M548.8-340.479H841.5l8.757,8.757-8.757,8.757H548.8l8.757-8.757Z" transform="translate(-4252.675 2272.834)" fill="#70ad47" fill-rule="evenodd"/>
+      <path id="path224" d="M867.038-292.319h157.908l8.8,8.8-8.8,8.8H867.038l8.8-8.8Z" transform="translate(-4380.564 2253.48)" fill="#ed7d31" fill-rule="evenodd"/>
+      <text id="text236" transform="translate(-3979.096 1955.871)" font-size="6" font-family="Calibri"><tspan x="0" y="0">Jan 2020</tspan></text>
+      <text id="text248" transform="translate(-3950.857 1955.871)" font-size="6" font-family="Calibri"><tspan x="0" y="0">-</tspan></text>
+      <text id="text260" transform="translate(-3944.742 1955.871)" font-size="6" font-family="Calibri"><tspan x="0" y="0">Oct 2020</tspan></text>
+      <text id="text272" transform="translate(-3862.893 1943.341)" fill="#fff" font-size="8" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">Phase I Trial</tspan></text>
+      <text id="text284" transform="translate(-3399.274 1944.341)" fill="#44546a" font-size="8" font-family="Calibri"><tspan x="0" y="0">11 mons</tspan></text>
+      <text id="text296" transform="translate(-3703.877 1955.871)" font-size="6" font-family="Calibri"><tspan x="0" y="0">Nov 2020</tspan></text>
+      <text id="text308" transform="translate(-3673.227 1955.871)" font-size="6" font-family="Calibri"><tspan x="0" y="0">-</tspan></text>
+      <text id="text320" transform="translate(-3667.111 1955.871)" font-size="6" font-family="Calibri"><tspan x="0" y="0">Sep 2021</tspan></text>
+      <text id="text332" transform="translate(-3575.748 1944.341)" fill="#fff" font-size="8" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">Phase II Trial</tspan></text>
+      <text id="text344" transform="translate(-3344.246 1973.203)" fill="#44546a" font-size="8" font-family="Calibri"><tspan x="0" y="0">6 mons</tspan></text>
+      <text id="text356" transform="translate(-3513.47 1984.757)" font-size="6" font-family="Calibri"><tspan x="0" y="0">May 31</tspan></text>
+      <text id="text368" transform="translate(-3489.822 1984.757)" font-size="6" font-family="Calibri"><tspan x="0" y="0">-</tspan></text>
+      <text id="text380" transform="translate(-3483.611 1984.757)" font-size="6" font-family="Calibri"><tspan x="0" y="0">Nov 30</tspan></text>
+      <text id="text392" transform="translate(-3454.191 1973.203)" fill="#fff" font-size="8" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">Phase III Trial</tspan></text>
+      <path id="path394" d="M512.639-184.008,519.816-192l7.178,7.991-7.178,7.991Z" transform="translate(-4238.144 2213.166)" fill-rule="evenodd"/>
+      <path id="path396" d="M856.478-188.411h3.589V-192h7.178v3.589h3.589v8.8h-3.589v3.589h-7.178v-3.589h-3.589Z" transform="translate(-4376.32 2213.166)" fill="red" fill-rule="evenodd"/>
+      <path id="path398" d="M1040.637-184.008l7.177-7.991,7.178,7.991-7.178,7.991Z" transform="translate(-4450.327 2213.166)" fill-rule="evenodd"/>
+      <path id="path400" d="M1132.637-185.9l4.96-.837,2.217-5.264,2.217,5.264,4.96.837-3.589,4.1.845,5.782-4.434-2.727-4.434,2.727.845-5.782Z" transform="translate(-4487.298 2213.166)" fill="#70ad47" fill-rule="evenodd"/>
+      <path id="path402" d="M114.72-483.954c3.445-4.307,6.891,4.307,10.336,0v7.752c-3.445,4.307-6.891-4.307-10.336,0Z" transform="translate(-4078.235 2330.991)" fill="#5b9bd5" fill-rule="evenodd"/>
+      <path id="path404" d="M184-435.154c3.477-4.307,6.954,4.307,10.431,0v7.752c-3.477,4.307-6.954-4.307-10.431,0Z" transform="translate(-4106.076 2311.38)" fill="#1aaa42" fill-rule="evenodd"/>
+      <path id="path406" d="M230.879-386.349c3.445-4.346,6.891,4.346,10.336,0v7.824c-3.445,4.346-6.891-4.346-10.336,0Z" transform="translate(-4124.916 2291.771)" fill="#ea535d" fill-rule="evenodd"/>
+      <path id="path408" d="M574.719-435.154c3.477-4.307,6.954,4.307,10.431,0v7.752c-3.477,4.307-6.954-4.307-10.431,0Z" transform="translate(-4263.092 2311.38)" fill="#5b9bd5" fill-rule="evenodd"/>
+      <path id="path410" d="M620-386.349c3.445-4.346,6.891,4.346,10.336,0v7.824c-3.445,4.346-6.891-4.346-10.336,0Z" transform="translate(-4281.288 2291.771)" fill="#1aaa42" fill-rule="evenodd"/>
+      <path id="path412" d="M755.838-386.349c3.445-4.346,6.891,4.346,10.336,0v7.824c-3.445,4.346-6.891-4.346-10.336,0Z" transform="translate(-4335.877 2291.771)" fill="#ea535d" fill-rule="evenodd"/>
+      <text id="text424" transform="translate(-3950.21 1846.853)" font-size="8" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">Patients Recruited</tspan></text>
+      <text id="text436" transform="translate(-3950.21 1856.597)" fill="#44546a" font-size="6" font-family="Calibri"><tspan x="0" y="0">Jan 15, 2020</tspan></text>
+      <text id="text448" transform="translate(-3908.691 1876.082)" font-size="8" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">Patients Enrolled</tspan></text>
+      <text id="text460" transform="translate(-3908.691 1885.818)" fill="#44546a" font-size="6" font-family="Calibri"><tspan x="0" y="0">Mar 1, 2020</tspan></text>
+      <text id="text472" transform="translate(-3880.73 1905.31)" font-size="8" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">Study Kick</tspan></text>
+      <text id="text484" transform="translate(-3844.67 1905.31)" font-size="8" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">-</tspan></text>
+      <text id="text496" transform="translate(-3840.086 1905.31)" font-size="8" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">off</tspan></text>
+      <text id="text508" transform="translate(-3880.73 1915.031)" fill="#44546a" font-size="6" font-family="Calibri"><tspan x="0" y="0">Apr 1, 2020</tspan></text>
+      <text id="text520" transform="translate(-3730.522 2056.663)" font-size="8" font-family="Calibri-BoldItalic, Calibri" font-weight="700" font-style="italic"><tspan x="0" y="0">Report</tspan></text>
+      <text id="text532" transform="translate(-3734.015 2044.746)" fill="#44546a" font-size="6" font-family="Calibri"><tspan x="0" y="0">Oct 15, 2020</tspan></text>
+      <text id="text544" transform="translate(-3675.972 1876.082)" font-size="8" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">Patients Recruited</tspan></text>
+      <text id="text556" transform="translate(-3675.972 1885.818)" fill="#44546a" font-size="6" font-family="Calibri"><tspan x="0" y="0">Nov 15, 2020</tspan></text>
+      <text id="text568" transform="translate(-3648.904 1905.31)" font-size="8" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">Patients Enrolled</tspan></text>
+      <text id="text580" transform="translate(-3648.904 1915.031)" fill="#44546a" font-size="6" font-family="Calibri"><tspan x="0" y="0">Dec 15, 2020</tspan></text>
+      <text id="text592" transform="translate(-3567.693 1905.31)" font-size="8" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">Study Kick</tspan></text>
+      <text id="text604" transform="translate(-3531.657 1905.31)" font-size="8" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">-</tspan></text>
+      <text id="text616" transform="translate(-3528.073 1905.31)" font-size="8" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">off</tspan></text>
+      <text id="text628" transform="translate(-3567.693 1915.031)" fill="#44546a" font-size="6" font-family="Calibri"><tspan x="0" y="0">Mar 15, 2021</tspan></text>
+      <text id="text640" transform="translate(-3539.597 2056.759)" font-size="8" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">Apply for Drug</tspan></text>
+      <text id="text652" transform="translate(-3529.644 2067.286)" font-size="8" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">Approval</tspan></text>
+      <text id="text664" transform="translate(-3529.469 2045.746)" fill="#44546a" font-size="6" font-family="Calibri"><tspan x="0" y="0">May 31, 2021</tspan></text>
+      <text id="text676" transform="translate(-3414.938 2056.663)" font-size="8" font-family="Calibri-BoldItalic, Calibri" font-weight="700" font-style="italic"><tspan x="0" y="0">Report</tspan></text>
+      <text id="text688" transform="translate(-3418.24 2044.746)" fill="#44546a" font-size="6" font-family="Calibri"><tspan x="0" y="0">Sep 30, 2021</tspan></text>
+      <text id="text700" transform="translate(-3375.756 2056.759)" font-size="8" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">Estimated Drug</tspan></text>
+      <text id="text712" transform="translate(-3373.842 2067.286)" font-size="8" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">Approval Date</tspan></text>
+      <text id="text724" transform="translate(-3365.937 2044.746)" fill="#44546a" font-size="6" font-family="Calibri"><tspan x="0" y="0">Nov 30, 2021</tspan></text>
+    </g>
+  </g>
+</svg>
